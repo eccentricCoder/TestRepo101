@@ -6,3 +6,10 @@ Test Repo
 == CONFLICT: LETS GO!!! ==
 
 "Yo, Joe!" - Alvin C.
+
+My new Change #1
+
+Another Change #2
+
+
+Now Change #3
